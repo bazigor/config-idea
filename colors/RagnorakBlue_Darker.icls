@@ -412,6 +412,11 @@
         <option name="FOREGROUND" value="eddac0" />
       </value>
     </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="99b7b7" />
+      </value>
+    </option>
     <option name="SCOPE_KEY_All">
       <value>
         <option name="FOREGROUND" value="ffffff" />
